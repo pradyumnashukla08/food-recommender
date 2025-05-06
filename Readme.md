@@ -12,14 +12,10 @@ This project implements an AI-powered recommendation system for food suggestions
 - Python 3.7+
 - Install dependencies via `requirements.txt`
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Powered-PoC.git
-   cd AI-Powered-PoC
+
 
 ### Key Section:
 ```markdown
 ## Demo Video
 Watch the demo video showcasing the AI-powered recommendation system in action:  
-[AI-Powered Recommendation System - Demo Video](https://tinyurl.com/demo-recommand)
+[AI-Powered Recommendation System - Demo Video](https://drive.google.com/file/d/1DySV_dL9sb5KUxqzpd8jMOP1hzCIbf8F/view?usp=sharing)
